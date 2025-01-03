@@ -1,4 +1,4 @@
-import 'package:dart_firebase_admin/dart_firebase_admin.dart';
+import 'package:dart_firebase_admin_plus/dart_firebase_admin.dart';
 import 'package:firebaseapis/fcm/v1.dart';
 import 'package:http/http.dart';
 import 'package:mocktail/mocktail.dart';

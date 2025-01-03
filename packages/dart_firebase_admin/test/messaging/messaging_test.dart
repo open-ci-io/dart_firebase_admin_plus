@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:dart_firebase_admin/src/messaging.dart';
+import 'package:dart_firebase_admin_plus/src/messaging.dart';
 import 'package:firebaseapis/fcm/v1.dart' as fmc1;
 import 'package:http/http.dart';
 import 'package:mocktail/mocktail.dart';

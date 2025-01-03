@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:dart_firebase_admin/src/app.dart';
+import 'package:dart_firebase_admin_plus/src/app.dart';
 import 'package:file/memory.dart';
 import 'package:test/test.dart';
 

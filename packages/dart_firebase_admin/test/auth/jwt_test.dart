@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:asn1lib/asn1lib.dart';
-import 'package:dart_firebase_admin/src/utils/jwt.dart';
+import 'package:dart_firebase_admin_plus/src/utils/jwt.dart';
 import 'package:dart_jsonwebtoken/dart_jsonwebtoken.dart';
 import 'package:test/test.dart';
 

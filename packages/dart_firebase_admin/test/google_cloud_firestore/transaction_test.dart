@@ -4,7 +4,7 @@
 
 import 'dart:core';
 import 'dart:math';
-import 'package:dart_firebase_admin/firestore.dart';
+import 'package:dart_firebase_admin_plus/firestore.dart';
 import 'package:test/test.dart';
 import 'util/helpers.dart' as helpers;
 

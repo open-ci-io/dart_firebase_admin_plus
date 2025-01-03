@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:dart_firebase_admin/auth.dart';
+import 'package:dart_firebase_admin_plus/auth.dart';
 import 'package:http/http.dart';
 import 'package:mocktail/mocktail.dart';
 import 'package:test/test.dart';

@@ -1,7 +1,7 @@
 import 'dart:async';
 
-import 'package:dart_firebase_admin/firestore.dart';
-import 'package:dart_firebase_admin/src/app.dart';
+import 'package:dart_firebase_admin_plus/firestore.dart';
+import 'package:dart_firebase_admin_plus/src/app.dart';
 import 'package:http/http.dart';
 import 'package:test/test.dart';
 
