@@ -1,4 +1,4 @@
-import 'package:dart_firebase_admin/src/app.dart';
+import 'package:dart_firebase_admin_plus/src/app.dart';
 import 'package:test/test.dart';
 
 void main() {
